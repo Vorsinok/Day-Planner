@@ -1,9 +1,5 @@
-import { Text, View } from "react-native";
+import CalendarTab from "@/src/features/calendar/components/CalendarTab";
 
 export default function CalendarScreen() {
-   return (
-      <View>
-         <Text>Calendar</Text>
-      </View>
-   );
+  return <CalendarTab />;
 }

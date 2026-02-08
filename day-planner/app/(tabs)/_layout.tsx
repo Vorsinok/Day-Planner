@@ -9,7 +9,7 @@ export default function TabsLayout() {
             />
             <Tabs.Screen
                 name="caledar"
-                options={{ title: "caledar" }}
+                options={{ title: "calendar" }}
             />
             <Tabs.Screen
                 name="settings"
